@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reham0000&label=Profile%20views&color=0e75b6&style=flat" alt="reham0000" /> </p>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m a MERN Stack **Web Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/reham0000](https://github.com/reham0000)
 
